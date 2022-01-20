@@ -5,9 +5,7 @@
 
 ## Description
   
-```CoFly-GUI``` is a novel, low-cost, user-friendly Precision Agriculture platform that attempts to alleviate the drawbacks of limited battery life by carefully designing missions tailored to each field's specific, time-changing characteristics. The proposed platform aims at providing the operator/farmer with a cost-effective and end-to-end integrated system that is able to accomplish autonomous tasks that were used to completed manually (e.g. crop growth monitoring). Besides, it will play a supportive role in decision-making objectives (e.g. possible weed infestations) enhancing crop yield management decisions by assisting non-expert users in proper manipulations. 
-  
-The main objective of the CoFly is to insert pioneering functionalities in a MAV system aiming at reducing the operational cost as well as provide intelligent modules assisting non-expert users in proper manipulation. In specific, the proposed system is capable of:
+```CoFly-GUI``` is a novel, low-cost, user-friendly Precision Agriculture platform that attempts to alleviate the drawbacks of limited battery life by carefully designing missions tailored to each field's specific, time-changing characteristics. The proposed platform aims at providing the operator/farmer with a cost-effective and end-to-end integrated system that is able to accomplish autonomous tasks that were used to completed manually (e.g. crop growth monitoring). Besides, it will play a supportive role in decision-making objectives (e.g. possible weed infestations) enhancing crop yield management decisions by assisting non-expert users in proper manipulations. In specific, the proposed system is capable of:
   
 * UAV built-in flight planning for automated crop monitoring _([Waypoint-Trajectory-Planning](https://github.com/CoFly-Project/Waypoint-Trajectory-Planning) module)_
 * Integrated image processing functionalities for orthomosaic extraction and vegetation health estimation _([Vegetation-Indices](https://github.com/CoFly-Project/Vegetation-Indices) module)_
