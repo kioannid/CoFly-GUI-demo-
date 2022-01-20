@@ -15,7 +15,13 @@ The main objective of the CoFly is to insert pioneering functionalities in a MAV
 * UAV built-in site-specific mission based on the extracted knowledge and combined with incorporated deep learning model _([Weed-Detection](https://github.com/CoFly-Project/Weed-Detection) module)_ trained on the _[CoFly-WeedDB](https://github.com/CoFly-Project/CoFly-WeedDB)_ dataset for weed detection
 * Timeline view for storing information according to the year's harvest
 
-All the above functionalities are enclosed into an open-source, end-to-end platform, named Cognitional Operations of micro Flying vehicles (CoFly). The effectiveness of the proposed system was tested and validated with extensive experimentation in agricultural fields with cotton in Larissa, Greece during two different crop sessions.
+All the above functionalities are enclosed into an open-source, end-to-end platform, named Cognitional Operations of micro Flying vehicles (CoFly). The effectiveness of the proposed system was tested and validated with extensive experimentation in agricultural fields with cotton in Larissa, Greece during two different crop sessions. In Figure 1, we present the architecture of CoFly.
+  
+  <p align="center">
+<img src="https://user-images.githubusercontent.com/80779522/150432702-1fdcdfb5-0525-491f-9708-4feec9532bfe.png" width="900" />
+<figcaption align = "center"><p align="center">
+  Figure 1. CoFly’s high-level architecture.</figcaption>
+</figure>
   
 ## Installation
   
