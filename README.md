@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/77329407/105342573-3040e900-5be9-11eb-92df-7c09392b1e0c.png" width="300" />
 
 ## Description
-CoFly-GUI is a novel, low-cost, user-friendly Precision Agriculture platform that attempts to alleviate the drawbacks of limited battery life by carefully designing missions tailored to each field's specific, time-changing characteristics. The main objective of the CoFly is to insert pioneering functionalities in a MAV system aiming at reducing the operational cost as well as provide intelligent modules assisting non-expert users in proper manipulation.The proposed system is capable of:
+CoFly-GUI is a novel, low-cost, user-friendly Precision Agriculture platform that attempts to alleviate the drawbacks of limited battery life by carefully designing missions tailored to each field's specific, time-changing characteristics. The main objective of the CoFly is to insert pioneering functionalities in a MAV system aiming at reducing the operational cost as well as provide intelligent modules assisting non-expert users in proper manipulation. In specifoc, the proposed system is capable of:
   
 * Designing coverage missions for any type of UAVs, integrating field characteristics inside the resulting trajectory ([Waypoint-Trajectory-Planning module](https://github.com/CoFly-Project/Waypoint-Trajectory-Planning))
 * The collected images are automatically processed to create detailed orthomosaics of the field and extract the corresponding vegetation indices ([Vegetation-Indices]() module).
@@ -29,21 +29,7 @@ npm start
 
 ## Usage
 
-
-First of all download & install [Node.js](https://nodejs.org/en/download/). After installation of node js clone the repo visit with terminal and excecute commands.
-
-### Install all necessary dependecies
-```bash
-npm install
-```
-To run the GUI
-```bash
-npm start
-```
-
-## Usage
-
-The developed platform has several operations in order to examine the field of interest
+The developed platform has several operations in order to examine the field of interest. The below 
 ![alt text](https://github.com/CoFly-Project/cofly-gui/blob/master/readme_images/main_screen.gif?raw=true?raw=true)
 
 Set your scanning 
