@@ -18,7 +18,7 @@ All the above functionalities are enclosed into an open-source, end-to-end platf
 &nbsp;
     
   <p align="center">
-<img src="https://user-images.githubusercontent.com/80779522/150432702-1fdcdfb5-0525-491f-9708-4feec9532bfe.png" width="900" />
+<img src="https://user-images.githubusercontent.com/80779522/150432702-1fdcdfb5-0525-491f-9708-4feec9532bfe.png" width="700" />
 <figcaption align = "center"><p align="center">
   Figure 1. CoFly’s high-level architecture.</figcaption>
 </figure>
