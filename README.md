@@ -14,7 +14,9 @@
 * Timeline view for storing information according to the year's harvest
 
 All the above functionalities are enclosed into an open-source, end-to-end platform, named Cognitional Operations of micro Flying vehicles (CoFly). The effectiveness of the proposed system was tested and validated with extensive experimentation in agricultural fields with cotton in Larissa, Greece during two different crop sessions. In Figure 1, we present the architecture of CoFly.
-  
+
+&nbsp;
+    
   <p align="center">
 <img src="https://user-images.githubusercontent.com/80779522/150432702-1fdcdfb5-0525-491f-9708-4feec9532bfe.png" width="900" />
 <figcaption align = "center"><p align="center">
@@ -37,7 +39,9 @@ npm start
 
 ## Usage
 
-The developed platform has several operations in order to examine the field of interest.  
+The developed platform has several operations in order to examine the field of interest. 
+
+&nbsp;
 ![alt text](https://github.com/CoFly-Project/cofly-gui/blob/master/readme_images/main_screen.gif?raw=true?raw=true)
 
 Set your scanning 
