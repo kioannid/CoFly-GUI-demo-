@@ -39,7 +39,7 @@ npm start
 
 ## Usage
 
-The developed platform has several operations in order to examine the field of interest. 
+The developed platform has several operations in order to examine the field of interest, such as 
 
 &nbsp;
 ![alt text](https://github.com/CoFly-Project/cofly-gui/blob/master/readme_images/main_screen.gif?raw=true?raw=true)
